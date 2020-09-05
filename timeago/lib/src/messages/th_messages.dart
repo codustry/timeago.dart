@@ -1,4 +1,4 @@
-import 'package:timeago/src/messages/lookupmessages.dart';
+import 'package:gebwai/services/time_message/lookupmessages.dart';
 
 class ThMessages implements LookupMessages {
   @override
